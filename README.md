@@ -1,6 +1,8 @@
-# [Homepage](https://danggoodcode.com/startpage)
+# [SimpleHomepage]
 
 ![homepage](https://i.redd.it/cbnzq36zj3601.gif)
+
+Inspiration/code from r/startup and code forked, but can't find the person who made it! Sorry.
 
 ## Customization
 

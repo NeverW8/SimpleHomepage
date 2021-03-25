@@ -24,10 +24,7 @@ const bookmarks = [
     title: "Reddit",
     links: [
       { name: "/r/SysAdmin", url: "https://reddit.com/r/sysadmin" },
-      {
-        name: "/r/pcmasterrace",
-        url: "https://reddit.com/r/pcmasterrace",
-      },
+      
       { name: "Reddit Start Page", url: "https://reddit.com/" },
       {
         name: "/r/battlestations",
@@ -41,7 +38,7 @@ const bookmarks = [
     title: "Social",
     links: [
       { name: "Twitter", url: "https://twitter.com" },
-      { name: "Facebook", url: "https://facebook.com" },
+      { name: "Instagram", url: "https://www.instagram.com/" },
     ],
   },
 ];

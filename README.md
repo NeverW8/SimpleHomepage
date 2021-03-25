@@ -1,6 +1,6 @@
 # [SimpleHomepage]
 
-![homepage](https://i.redd.it/cbnzq36zj3601.gif)
+![homepage](https://github.com/NeverW8/SimpleHomepage/blob/main/homepage.png)
 
 Inspiration/code from r/startup and code forked, but can't find the person who made it! Sorry.
 

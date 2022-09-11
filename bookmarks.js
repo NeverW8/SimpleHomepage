@@ -12,6 +12,7 @@ const bookmarks = [
     title: "Media",
     links: [
       { name: "Youtube", url: "https://youtube.com" },
+      { name: "SVT Play", url: "https://www.svtplay.se/" },
       { name: "Netflix", url: "https://netflix.com" },
       { name: "Dagens Nyheter", url: "https://dn.se" },
       {
